@@ -1,0 +1,33 @@
+body{
+    background-color: #2D9CDB;
+}
+
+.header{
+Font-Family:Roboto;
+Font-Style: Medium;
+Font-Size: 96px;
+Line-Height: 113px;
+color: #ffffff;
+text-align: center;
+}
+
+.btn{
+    text-align: center;
+    font-size: 40px;
+    background-color:transparent;
+    border: 2px solid #ffffff;
+    border-radius: 30px 30px 30px 30px;
+    color: #ffffff;
+    margin-left: 29%;
+    margin-top: 10%;
+    line-height: 70px;
+    font-style: initial;
+    width: 40%;
+
+}
+
+.time{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10%;
+}
